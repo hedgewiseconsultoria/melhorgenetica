@@ -1,0 +1,483 @@
+{
+  "generated_at": "2026-09-01T11:55:21.037Z",
+  "source": "server/data/ancp/tables",
+  "audited_files": 59,
+  "unique_animals": 752,
+  "duplicate_records_collapsed": 1425,
+  "columns": 71,
+  "rejected_rows": 0,
+  "tables": [
+    {
+      "file": "page_012__3P_MP120_STAY_P450_PE365_AOL_MGTe.csv",
+      "page": 12,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_013__3P_MP120_STAY_P450_PE365_AOL_MGTe.csv",
+      "page": 13,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_014__3P_MP120_STAY_P450_PE365_AOL_MGTe.csv",
+      "page": 14,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_015__3P_MP120_STAY_P450_PE365_AOL_MGTe.csv",
+      "page": 15,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_016__3P_MP210_STAY_P210_PE365_MGTe_CR_MGTe.csv",
+      "page": 16,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_017__P450_AOL_ACAB_MGTe_RE_MGTe.csv",
+      "page": 17,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_018__P450_CAR_AOL_ACAB_MAR_MGTe_F1_MGTe.csv",
+      "page": 18,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_019__P450_CAR_AOL_ACAB_MAR_MGTe_CO_MGTe.csv",
+      "page": 19,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_020__MGTe_CR_MGTe_RE_MGTe_CO_MGTe_F1_MGTe.csv",
+      "page": 20,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_021__IPP_3P_MP120_STAY_PE365_MGTe.csv",
+      "page": 21,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_022__IPP_3P_MP120_STAY_P450_MGTe.csv",
+      "page": 22,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_023__IPP_3P_MP120_P450_PE365_MGTe.csv",
+      "page": 23,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_024__IPP_MP120_MP210_PAC_P450_MGTe.csv",
+      "page": 24,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_025__MP120_P120_P210_P450_PE365_MGTe.csv",
+      "page": 25,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_026__MP120_P120_P210_P450_PE365_MGTe.csv",
+      "page": 26,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_027__IPP_3P_P450_AOL_ACAB_MGTe.csv",
+      "page": 27,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_028__IPP_3P_P450_AOL_ACAB_MGTe.csv",
+      "page": 28,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_029__IPP_3P_P450_AOL_ACAB_MAR_MGTe.csv",
+      "page": 29,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_030__P450_CAR_IMS_AOL_ACAB_MGTe.csv",
+      "page": 30,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_031__3P_MP120_STAY_P450_PE365_AOL_MGTe.csv",
+      "page": 31,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_037__IPP_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 37,
+      "rows_in_file": 18,
+      "rows_accepted": 18,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_038__MGTe_CR_MGTe_RE_MGTe.csv",
+      "page": 38,
+      "rows_in_file": 18,
+      "rows_accepted": 18,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_039__IPP_MP120_STAY_P450_PE365.csv",
+      "page": 39,
+      "rows_in_file": 8,
+      "rows_accepted": 8,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_040__IPP_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 40,
+      "rows_in_file": 37,
+      "rows_accepted": 37,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_041__IPP_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 41,
+      "rows_in_file": 23,
+      "rows_accepted": 23,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_042__IPP_MP120_MP210_PAC_P450_MGTe.csv",
+      "page": 42,
+      "rows_in_file": 10,
+      "rows_accepted": 10,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_043__MP120_P120_P210_P450_PE365_MGTe.csv",
+      "page": 43,
+      "rows_in_file": 15,
+      "rows_accepted": 15,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_044__MP120_P210_P365_P450_PE365_MGTe.csv",
+      "page": 44,
+      "rows_in_file": 17,
+      "rows_accepted": 17,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_045__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 45,
+      "rows_in_file": 11,
+      "rows_accepted": 11,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_046__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 46,
+      "rows_in_file": 4,
+      "rows_accepted": 4,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_051__IPP_STAY_P120_P450_PE365_MGTe.csv",
+      "page": 51,
+      "rows_in_file": 22,
+      "rows_accepted": 22,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_052__MGTe_CR_MGTe_RE_MGTe.csv",
+      "page": 52,
+      "rows_in_file": 22,
+      "rows_accepted": 22,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_053__IPP_STAY_P210_P450_PE365_MGTe.csv",
+      "page": 53,
+      "rows_in_file": 17,
+      "rows_accepted": 17,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_054__IPP_STAY_PAC_P450_PE365_MGTe.csv",
+      "page": 54,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_055__IPP_STAY_P210_P450_PE365_MGTe.csv",
+      "page": 55,
+      "rows_in_file": 27,
+      "rows_accepted": 27,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_056__IPP_MP120_MP210_PAC_P450_MGTe.csv",
+      "page": 56,
+      "rows_in_file": 11,
+      "rows_accepted": 11,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_057__IPP_P120_P210_P450_PE365_MGTe.csv",
+      "page": 57,
+      "rows_in_file": 38,
+      "rows_accepted": 38,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_058__P120_P210_P365_P450_PE365_MGTe.csv",
+      "page": 58,
+      "rows_in_file": 25,
+      "rows_accepted": 25,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_059__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 59,
+      "rows_in_file": 20,
+      "rows_accepted": 20,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_060__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 60,
+      "rows_in_file": 18,
+      "rows_accepted": 18,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_063__IPP_MP120_P210_P450_PE365_MGTe.csv",
+      "page": 63,
+      "rows_in_file": 11,
+      "rows_accepted": 11,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_064__MGTe_CR_MGTe_RE_MGTe.csv",
+      "page": 64,
+      "rows_in_file": 11,
+      "rows_accepted": 11,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_065__IPP_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 65,
+      "rows_in_file": 18,
+      "rows_accepted": 18,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_066__IPP_MP120_STAY_P450_MGTe.csv",
+      "page": 66,
+      "rows_in_file": 21,
+      "rows_accepted": 21,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_067__IPP_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 67,
+      "rows_in_file": 40,
+      "rows_accepted": 40,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_068__IPP_MP120_MP210_PAC_P450_MGTe.csv",
+      "page": 68,
+      "rows_in_file": 2,
+      "rows_accepted": 2,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_069__MP120_P120_P210_P450_PE365_MGTe.csv",
+      "page": 69,
+      "rows_in_file": 20,
+      "rows_accepted": 20,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_070__MP120_P210_P365_P450_PE365_MGTe.csv",
+      "page": 70,
+      "rows_in_file": 26,
+      "rows_accepted": 26,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_071__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 71,
+      "rows_in_file": 10,
+      "rows_accepted": 10,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_072__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 72,
+      "rows_in_file": 5,
+      "rows_accepted": 5,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_075__MP120_STAY_P210_P450_PE365_MGTe.csv",
+      "page": 75,
+      "rows_in_file": 23,
+      "rows_accepted": 23,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_076__IPP_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 76,
+      "rows_in_file": 7,
+      "rows_accepted": 7,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_077__3P_MP120_STAY_P450_MGTe.csv",
+      "page": 77,
+      "rows_in_file": 10,
+      "rows_accepted": 10,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_078__3P_MP120_STAY_P450_PE365_MGTe.csv",
+      "page": 78,
+      "rows_in_file": 16,
+      "rows_accepted": 16,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_079__MP120_MP210_PAC_P450_MGTe.csv",
+      "page": 79,
+      "rows_in_file": 8,
+      "rows_accepted": 8,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_080__MP120_P120_P210_P450_PE365_MGTe.csv",
+      "page": 80,
+      "rows_in_file": 2,
+      "rows_accepted": 2,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_081__MP120_P210_P365_P450_PE365_MGTe.csv",
+      "page": 81,
+      "rows_in_file": 1,
+      "rows_accepted": 1,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_082__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 82,
+      "rows_in_file": 27,
+      "rows_accepted": 27,
+      "rows_rejected": 0,
+      "status": "audited"
+    },
+    {
+      "file": "page_083__IPP_P450_PE365_AOL_ACAB_MGTe.csv",
+      "page": 83,
+      "rows_in_file": 25,
+      "rows_accepted": 25,
+      "rows_rejected": 0,
+      "status": "audited"
+    }
+  ]
+}
