@@ -34,6 +34,14 @@
 - [x] Testar distinção entre valor observado igual a zero e métrica não publicada
 - [x] Testar efeito dos pesos, filtros e trade-offs no ranking
 
-- [ ] Regenerar a visão canônica no próprio repositório a partir das tabelas auditadas
+- [x] Regenerar a visão canônica no próprio repositório a partir das tabelas auditadas
 - [ ] Bloquear tabelas não auditadas ou linhas incompletas antes da recomendação
-- [ ] Testar integridade da base efetivamente usada pela API
+- [x] Testar integridade da base efetivamente usada pela API
+
+- [x] Corrigir bug publicado: shortlist ainda usa candidatos demonstrativos em vez da base canônica real
+- [x] Conectar filtros publicados de raça, acurácia, TOP e disponibilidade à base real
+- [x] Validar que cada raça retorna candidatos quando há registros compatíveis
+- [x] Testar `/api/recommend` para Nelore, Guzerá, Brahman, Tabapuã e Sindi com filtros compatíveis
+- [x] Adicionar teste automatizado de filtro por raça
+- [x] Documentar combinações de filtros que podem zerar resultados legitimamente
+- [ ] Gerar ZIP atualizado do projeto para substituição no GitHub
